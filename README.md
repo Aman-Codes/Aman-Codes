@@ -1,16 +1,50 @@
-### Hi there 👋
+# Hello there! 👋🏻
 
-<!--
-**Aman-Codes/Aman-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="350"/>
+Hi 🙋🏻‍♂️, I am Aman Dwivedi, a Full Stack Developer 🚀 from India, currently, I'm a 
+    🎓 Mathematics and Computing Sophomore at
+     <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad</a>
+    , <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" >
+    Web Developer at
+    <a href="https://cyberlabs.club">Cyber Labs</a>.
+    Interested in making life easier by creating utility tools 🔨. Fascinated about space 👽.
+</p>
 
-Here are some ideas to get you started:
+---
+**Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently working on React and Angular
+- 📚 I’m currently practising competitive coding
+- ⚡️ Available for Freelance projects/internship opportunities
+- 📫 How to reach me: aman.dwivedi5@gmail.com
+- 💬 Ask me about anything, I am happy to help
+- 📝[Resume](https://drive.google.com/file/d/12k-NO8RtGx_tHBbytpeX5aMmxGaT42b3/view?usp=sharing)
+
+---
+
+**Languages and Tools:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+---
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+
+<img  src="https://github-readme-stats.vercel.app/api?username=Aman-Codes&&show_icons=true"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Codes&&show_icons=true"/>
+
+---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
