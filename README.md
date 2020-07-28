@@ -1,16 +1,22 @@
 # Hello there! 👋🏻
 
-<img src="https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=leetcode" alt="leetcode" href="https://leetcode.com/aman-codes/" width="100" height="30">
+<a href="https://leetcode.com/aman-codes/">
+<img src="https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=leetcode" alt="leetcode"  width="100" height="30"></a>
 
-<img src="https://img.shields.io/badge/-Codeforces-black?style=flat-square&logo=codeforces" alt="codeforces" href="https://codeforces.com/profile/Aman-Codes" width="100" height="30">
+<a href="https://codeforces.com/profile/Aman-Codes">
+<img src="https://img.shields.io/badge/-Codeforces-black?style=flat-square&logo=codeforces" alt="codeforces"  width="100" height="30"></a>
 
-<img src="https://img.shields.io/badge/-CodeChef-black?style=flat-square&logo=codechef" alt="codechef" href="https://www.codechef.com/users/aman_dwivedi" width="100" height="30">
+<a href="https://www.codechef.com/users/aman_dwivedi">
+<img src="https://img.shields.io/badge/-CodeChef-black?style=flat-square&logo=codechef" alt="codechef" width="100" height="30"></a>
 
-<img src="https://img.shields.io/badge/-HackerRank-black?style=flat-square&logo=hackerrank" alt="HackerRank" href="https://www.hackerrank.com/Aman_Codes" width="100" height="30">
+<a href="https://www.hackerrank.com/Aman_Codes">
+<img src="https://img.shields.io/badge/-HackerRank-black?style=flat-square&logo=hackerrank" alt="HackerRank"  width="100" height="30"></a>
 
-<img src="https://img.shields.io/badge/-Facebook-black?style=flat-square&logo=facebook" alt="FaceBook" href="https://www.facebook.com/profile.php?id=100039304971071" width="100" height="30">
+<a href="https://www.facebook.com/profile.php?id=100039304971071">
+<img src="https://img.shields.io/badge/-Facebook-black?style=flat-square&logo=facebook" alt="FaceBook"  width="100" height="30"></a>
 
-<img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn" href="https://www.linkedin.com/in/aman-dwivedi/" width="100" height="30">
+<a href="https://www.linkedin.com/in/aman-dwivedi/">
+<img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn"  width="100" height="30"></a>
 
 
 <p>
