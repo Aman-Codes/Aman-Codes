@@ -69,7 +69,7 @@ Hi 🙋🏻‍♂️, I am Aman Dwivedi, a Full Stack Developer 🚀 from India,
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect with you!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love interacting and networking with different people</b> so if you want to say <b>hi, I'll be happy to connect with you!</b> :)</em>
 
 ![Visit badge](https://badges.pufler.dev/visits/Aman-Codes/Aman-Codes)
 ![GitHub followers](https://img.shields.io/github/followers/Aman-Codes?label=Follow&style=plastic)
