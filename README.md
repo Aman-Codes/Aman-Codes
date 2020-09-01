@@ -36,7 +36,7 @@ Hi 🙋🏻‍♂️, I am Aman Dwivedi, a Full Stack Developer 🚀 from India,
 ---
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently working on React and Angular
+- 🌱 I’m currently working on React
 - 📚 I’m currently practising competitive coding
 - ⚡️ Available for Freelance projects/internship opportunities
 - 📫 How to reach me: aman.dwivedi5@gmail.com
