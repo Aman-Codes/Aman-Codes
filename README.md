@@ -3,8 +3,8 @@
 <a href="https://aman-codes.github.io/">
 <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=appveyor" alt="Portfolio"  width="100" height="30"></a>
 
-<a href="https://leetcode.com/aman-codes/">
-<img src="https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=leetcode" alt="leetcode"  width="100" height="30"></a>
+<a href="https://www.linkedin.com/in/aman-dwivedi/">
+<img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn"  width="100" height="30"></a>
 
 <a href="https://codeforces.com/profile/Aman-Codes">
 <img src="https://img.shields.io/badge/-Codeforces-black?style=flat-square&logo=codeforces" alt="codeforces"  width="100" height="30"></a>
@@ -15,11 +15,11 @@
 <a href="https://www.hackerrank.com/Aman_Codes">
 <img src="https://img.shields.io/badge/-HackerRank-black?style=flat-square&logo=hackerrank" alt="HackerRank"  width="100" height="30"></a>
 
+<a href="https://leetcode.com/aman-codes/">
+<img src="https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=leetcode" alt="leetcode"  width="100" height="30"></a>
+
 <a href="https://www.facebook.com/profile.php?id=100039304971071">
 <img src="https://img.shields.io/badge/-Facebook-black?style=flat-square&logo=facebook" alt="FaceBook"  width="100" height="30"></a>
-
-<a href="https://www.linkedin.com/in/aman-dwivedi/">
-<img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn"  width="100" height="30"></a>
 
 
 <p>
@@ -41,7 +41,7 @@ Hi 🙋🏻‍♂️, I am Aman Dwivedi, a Full Stack Developer 🚀 from India,
 - ⚡️ Available for Freelance projects/internship opportunities
 - 📫 How to reach me: aman.dwivedi5@gmail.com
 - 💬 Ask me about anything, I am happy to help
-- 📝[Resume](https://drive.google.com/file/d/12k-NO8RtGx_tHBbytpeX5aMmxGaT42b3/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1siZGkjsxCFFwT8Gc572vc-CezxTynY6q/view?usp=sharing)
 
 ---
 
