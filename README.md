@@ -24,7 +24,7 @@
 
 <p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="350"/>
-Hi 🙋🏻‍♂️, I am Aman Dwivedi, a Full Stack Developer 🚀 from India, currently, I'm a 
+Hi 🙋🏻‍♂️, I am Aman Dwivedi, a Full Stack Web Developer 🚀 from India, currently, I'm a 
     🎓 Mathematics and Computing Sophomore at
      <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad</a>
     , <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" >
