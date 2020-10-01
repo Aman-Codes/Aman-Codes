@@ -29,8 +29,8 @@ Hi 🙋🏻‍♂️, I am Aman Dwivedi, a Full Stack Web Developer 🚀 from In
      <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad</a>
     , <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" >
     Web Developer at
-    <a href="https://cyberlabs.club">Cyber Labs</a>.
-    Interested in making life easier by creating utility tools 🔨. Fascinated about space 👽.
+    <a href="https://cyberlabs.club">Cyber Labs</a>.<br>
+    I'm interested in making our day to day life also easier by creating utility tools 🔨. I'm  also fascinated about space 👽.
 </p>
 
 ---
