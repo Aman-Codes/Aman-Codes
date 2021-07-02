@@ -37,7 +37,7 @@ Hi 🙋🏻‍♂️, I am Aman Dwivedi, a Full Stack Developer 🚀 from India,
 - 📚 I’m actively contributing to open-source projects
 - ⚡️ Available for Freelance projects/internship opportunities
 - 📫 How to reach me: aman.dwivedi5@gmail.com
-- 📝[Resume](https://drive.google.com/file/d/17_63b43fyAbO5E3ZGkLgaLU0C2OWFyEw/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1g22fmTKTxg_K4NLp9tGwq3sHFFoFY3CK/view?usp=sharing)
 
 ---
 
