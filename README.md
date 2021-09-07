@@ -62,9 +62,9 @@ Hi 🙋🏻‍♂️, I am Aman Dwivedi, a Full Stack Developer 🚀 from India,
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Aman-Codes&&show_icons=true"/>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Codes&&show_icons=true"/>
-
+| <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Aman-Codes&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aman-Codes github stats"/> |
+<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Codes&layout=compact&theme=buefy&hide_border=true"/> |
+| ------------- | ------------- |
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love interacting and networking with different people</b> so if you want to say <b>hi, I'll be happy to connect with you!</b> :)</em><br/>
