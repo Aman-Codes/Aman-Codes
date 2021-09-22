@@ -57,15 +57,21 @@ Hi 🙋🏻‍♂️, I am Aman Dwivedi, a Full Stack Developer 🚀 from India,
 ![Amazon Web Services](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws "Amazon Web Services")
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git "Git")
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github "GitHub")
-
----
+<hr />
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-| <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Aman-Codes&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aman-Codes github stats"/> |
-<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Codes&layout=compact&theme=buefy&hide_border=true"/> |
-| ------------- | ------------- |
----
+<table>
+  <tr>
+    <td>
+      <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Aman-Codes&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aman-Codes github stats"/>
+    </td>
+    <td>
+      <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Codes&layout=compact&theme=buefy&hide_border=true"/>
+    </td>
+  </tr>
+ </table>
+<hr />
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love interacting and networking with different people</b> so if you want to say <b>hi, I'll be happy to connect with you!</b> :)</em><br/>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aman-Codes.Aman-Codes)
