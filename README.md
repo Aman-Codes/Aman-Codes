@@ -27,7 +27,7 @@
 
 <p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="350"/>
-Hi 🙋🏻‍♂️, I am Aman Dwivedi, a Full Stack Developer 🚀 from India, currently, I'm a 🎓 Mathematics and Computing Sophomore at <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad</a>, and <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" > Web Developer at <a href="https://cyberlabs.club">Cyber Labs</a>. I love to solve real world problems to make our day to day life easier by creating utility tools 🔨.
+<span align="left">Hi 🙋🏻‍♂️, I am Aman Dwivedi, a Full Stack Developer 🚀 from India, currently, I'm a 🎓 Mathematics and Computing Sophomore at <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad</a>, and <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" > Web Developer at <a href="https://cyberlabs.club">Cyber Labs</a>. I love to solve real world problems to make our day to day life easier by creating utility tools 🔨.</span>
 </p>
 
 ---
@@ -38,6 +38,7 @@ Hi 🙋🏻‍♂️, I am Aman Dwivedi, a Full Stack Developer 🚀 from India,
 - ⚡️ Available for Freelance projects/internship opportunities
 - 📫 How to reach me: aman.dwivedi5@gmail.com
 - 📝[Resume](https://drive.google.com/file/d/1TqoSZA6BASkm2xiDeNxp-nVbYpe86GG4/view?usp=sharing)
+- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/AmanCodes)
 
 ---
 
