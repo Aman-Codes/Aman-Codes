@@ -65,10 +65,10 @@
 <table>
   <tr>
     <td>
-      <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Aman-Codes&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aman-Codes github stats"/>
+      <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Aman-Codes&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Aman-Codes github stats"/>
     </td>
     <td>
-      <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Codes&layout=compact&theme=buefy&hide_border=true&langs_count=10"/>
+      <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Codes&layout=compact&theme=buefy&hide_border=true&langs_count=10&count_private=true"/>
     </td>
   </tr>
  </table>
