@@ -37,7 +37,7 @@
 - 📚 I’m actively contributing to open-source projects
 - ⚡️ Available for Freelance projects/internship opportunities
 - 📫 How to reach me: aman.dwivedi5@gmail.com
-- 📝[Resume](https://drive.google.com/file/d/1He90_UMV4l_xRjx9iAb6grWA5RYmBVL6/view?usp=share_link)
+- 📝[Resume](https://drive.google.com/file/d/1OVQIwxECFVwB2SaRsT-ynDG6L2ayD6nr/view?usp=share_link)
 - ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/AmanCodes)
 
 ---
