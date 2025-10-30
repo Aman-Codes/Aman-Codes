@@ -27,7 +27,7 @@
 
 <p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="350"/>
-<span align="left">Hi 🙋🏻‍♂️, I am Aman Dwivedi, a Full Stack Developer 🚀 from India, currently, I'm a 🎓 Mathematics and Computing Sophomore at <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad</a>, and <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" > Web Developer at <a href="https://cyberlabs.club">Cyber Labs</a>. I love to solve real world problems to make our day to day life easier by creating utility tools 🔨.</span>
+<span align="left">Hi 🙋🏻‍♂️, I am Aman Dwivedi, a Full Stack Developer 🚀 from India. I love to solve real world problems to make our day to day life easier by creating utility tools 🔨.</span>
 </p>
 
 ---
